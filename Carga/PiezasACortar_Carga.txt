@@ -1,0 +1,17 @@
+Carga 
+
+-AcelerometroSujecion
+-Carga1_CAMBIOS1 x1
+-Carga1_CAMBIOS2 x1
+-Carga1_1 x1
+-Carga2 x4
+-Carga3 x1
+-Carga3_1_CAMBIOS x1
+-Carga3_1_CAMBIOS2 x1
+-Carga4 x4
+-Carga5 x14
+-Carga6_Cambio x6
+
+-Soportepiezas1 x1
+-Soportepiezas1 x2
+-Sujecion_Rol_Lateral x2
