@@ -1,0 +1,12 @@
+Experimento 2
+
+Fecha 03-06-2018
+Hora:	15:53
+
+Para el segundo experimento, el acelerómetro
+se desconectó cuando se apagó el motor.
+
+3 Vel Sin Carga: Se desconectó cuando terminaba la prueba
+
+
+

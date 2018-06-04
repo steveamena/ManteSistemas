@@ -1,0 +1,14 @@
+Fecha 03-06-2018
+Hora: 15:45
+-----------------
+
+Experimento 1:
+SLos acelerómetros solían desconectarse
+así que se dejó por muy poco tiempo
+
+-----------------
+Este programa toma datos cada 1 ms exactamente
+Los datos con un -11 se descartan
+
+-----------------
+
