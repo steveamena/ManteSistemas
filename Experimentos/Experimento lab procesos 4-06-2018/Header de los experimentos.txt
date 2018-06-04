@@ -1,0 +1,89 @@
+Condiciones de los experimentos:
+
+Fecha 04/06/2018
+Hora: 15:19
+
+Roles:
+------------------
+1: Rol gopeado
+2: Oxidado
+3: Holgado
+no tiene: está bien.
+------------------
+
+Experimento 1: 
+Tiem(s)	Carga		Vel.	Condición
+5	sin carga	1	Sin lubricar
+
+Experimento 2:
+5 	con carga 	1	Sin lubricar
+
+Experimento 3:
+5 	con carga	2 	Sin lubricar
+
+Experimento 4:
+3	con carga	3 	Sin lubricar
+
+Experimento 5:
+2  	con carga 	4 	Sin lubricar
+
+Experimento 6:
+5	sin carga 	1 	Lubricado
+
+Experimento 7:
+5	con carga	1	Lubricado
+
+Experimento 8:
+5	con carga	2	Lubricado
+
+Experimento 9:
+3	con carga	3	Lubricado
+
+Experimento 10:
+2	con carga	4	Lubricado
+
+Experimento 11:
+5	sin carga	1	oxidado sin lubricar
+
+Experimento 12:
+5	con carga	1	oxidado sin lubricar
+
+Experimento 13:
+5	con carga	2	oxidado sin lubricar
+
+Experimento 14
+3	con carga	3	oxidado sin lubricar
+
+Experimento 15
+2	con carga	4	xidado 
+
+Experimento 16
+5	sin carga	1	golpeado sin lubricar
+
+Experimento 17:
+5	con carga	1	golpeado sin lubricar
+
+Experimento 18:
+5	con carga	2	golpeado sin lubricar
+
+Experimento 19
+3	con carga	3	golpeado sin lubricar
+
+Experimento 20
+2	con carga	4	golpeado sin lubricar
+
+Experimento 21
+5	sin carga	1	holgado sin lubricar
+
+Experimento 22:
+5	con carga	1	holgado sin lubricar
+
+Experimento 23:
+5	con carga	2	holgado sin lubricar
+
+Experimento 24:
+3	con carga	3	holgado sin lubricar
+
+Experimento 25:
+2	con carga	4	holgado sin lubricar
+
