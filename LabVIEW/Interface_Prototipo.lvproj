@@ -14,6 +14,7 @@
 		<Item Name="Fecha.vi" Type="VI" URL="../Fecha.vi"/>
 		<Item Name="Global 1.vi" Type="VI" URL="../Global 1.vi"/>
 		<Item Name="Interface _Envio_Recepcion.vi" Type="VI" URL="../Interface _Envio_Recepcion.vi"/>
+		<Item Name="Interface _Envio_Recepcion_Profe.vi" Type="VI" URL="../Interface _Envio_Recepcion_Profe.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
