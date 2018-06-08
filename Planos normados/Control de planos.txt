@@ -1,0 +1,13 @@
+Control de planos
+
+Plano		Encargado	Designación	Numeración
+Espec Técnica			MS.00.00 ET	1
+Montaje Genera			MS.00.01 MONT	2
+Explosionado			MS.00.02 EXP	3
+
+Unidades de montaje:
+Base				MS.01.00 MONT	4
+Explosionado:			MS.01.00 EXP	5
+
+Piezas de la base:
+	

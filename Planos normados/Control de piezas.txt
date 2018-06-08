@@ -1,0 +1,71 @@
+Archivo con el control de todas las piezas para 
+los planos de mantenimiento.
+
+Sub ensambles:
+Sub Ensamble	No	Encargado	Abreviatura
+General		1	DA		EG
+Base		2	SM		BA
+Soporte Rol	3	SM		SR
+Carga		4	DA		CA
+Soporte Eje	5	SM		SE
+Soporte Arduino	6	SM		SA
+-----------------------------------------------------
+
+Pieza		No	Encarg	Cant	Designacion
+-----------------------------------------------------
+Ensamblaje: Base
+Base1		1	SM	1	MS.02.01				
+Base2		2	SM	1	MS.02.02				
+Base3 02	3	SM	1	MS.02.03
+Base4		4	SM	1	MS.02.04
+Base5 02	5	SM	2	MS.02.05
+Base6		6	SM	1	MS.02.06
+Base7		7	SM	1	MS.02.07
+Base8		8	SM	1	MS.02.08
+Base9		9	SM	1	MS.02.09
+Base10		10	SM	1	MS.02.10
+Base11		11	SM	1	MS.02.11
+Base12		12	SM	1	MS.02.12
+Soporte a Base	13	SM	8	MS.02.13
+----------------------------------------------------
+Ensamblaje: Soporte Rol
+Base Sensor	14		2	MS.03.14
+Central Pieza In15		2	MS.03.15
+Central Pieza	16		2	MS.03.16
+Pieza Inferior	17		2	MS.03.17
+Pieza Superior	18		4	MS.03.18
+----------------------------------------------------
+Ensamblaje: Carga			
+Espacio1	19		x	MS.04.19
+Espacio2	20		x	MS.04.20
+Espacio3	21		x	MS.04.21
+Espacio4	22		x	MS.04.22
+Espacio5	23		x	MS.04.23
+Espacio6	24		x	MS.04.24
+--------------------------------------------------
+Ensamblaje: Soporte Eje
+SoporteEje1	25		1	MS.05.25
+SoporteEje2	26		2	MS.05.26
+--------------------------------------------------
+Ensamblaje: Soporte Arduino
+SoporteArduino	27		2	MS.06.27
+Lateral		28		1	MS.06.28
+--------------------------------------------------
+Ensamblaje: General
+Eje1		29		1	MS.01.29
+Ej_Carga	30		1	MS.01.30
+Motor		31		1	MS.01.31
+Engrane1	32		1	MS.01.32
+Engrane2	33		1	MS.01.33
+Engrane3y4	34		8	MS.01.34
+
+	********************					
+Elementos estandarizados y otras piezas:
+Carga:
+Arduino		35		1	
+Tornillo Estufa	36		3
+Arandela	37		3
+Tuerca		38		3
+
+
+			
