@@ -67,5 +67,16 @@ Tornillo Estufa	36		3
 Arandela	37		3
 Tuerca		38		3
 
+Soporte Rol:
+Tornillo Carreo	39		4
+Tuercas		40		8
+
+Carga:
+
+Ensamble Gener	
+Roles		41		3
+Acelerómetr	42		1
+Seguros		43		4
+			
 
 			
