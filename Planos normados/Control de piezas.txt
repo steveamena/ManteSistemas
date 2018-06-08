@@ -77,6 +77,8 @@ Ensamble Gener
 Roles		41		3
 Acelerómetr	42		1
 Seguros		43		4
-			
+Tornillos 3/8	44		4
+Tuercas	3/8	45		4
+	
 
 			
